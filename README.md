@@ -6,7 +6,7 @@
 # Introduction
 Musical fountains are becoming increasingly popular worldwide due to their ability to seamlessly combine visual and auditory elements. However, designing and setting up a musical fountain requires technical and creative expertise in various fields such as engineering, computer science, and music.
 
-In the scope of the module (HAI606I: Programming Project 2), we have chosen to develop an interactive musical fountain capable of synchronizing water jets with music. This fountain will be controlled by a Raspberry Pi, along with several hardware and software components. We will utilize the following materials for this project:
+In the scope of the course (HAI606I: Programming Project 2), we have chosen to develop an interactive musical fountain capable of synchronizing water jets with music. This fountain will be controlled by a Raspberry Pi, along with several hardware and software components. We will utilize the following materials for this project:
 
 # Hardware Components:
 - Raspberry Pi
