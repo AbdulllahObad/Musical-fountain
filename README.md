@@ -41,12 +41,12 @@ Turtle graphics library
 Installation
 Please refer to the project report for detailed installation instructions.
 
-Contributing
+# Contributing
 We welcome contributions to enhance the interactive musical fountain project. If you would like to contribute, please follow the guidelines outlined in CONTRIBUTING.md.
 
-License
+# License
 The interactive musical fountain project is licensed under MIT License. Please refer to the license file for more details.
 
-Report
+# Report
 For detailed instructions on how to use the interactive musical fountain, including the installation and usage steps, please refer to our project report.
 
